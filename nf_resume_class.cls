@@ -9,14 +9,14 @@
 \definecolor{ncolor}{HTML}{003F96}
 
 \titleformat{\section}
-    {\Large\scshape\raggedright\bfseries\color{{scolor}}}
-    {}{0em}
-    {}
+{\Large\scshape\raggedright\bfseries\color{{scolor}}}
+{}{0em}
+{}
 
 \titleformat{\subsection}
-    {\Medium\raggedright\bfseries\color{{sscolor}}}
-    {}{0em}
-    {}
+{\Medium\raggedright\bfseries\color{{sscolor}}}
+{}{0em}
+{}
 
 \newcommand{\datedsection}[2]{\section[#1]{#1 \hfill #2}}
 \newcommand{\datedsubsection}[2]{\subsection[#1]{#1 \hfill #2}}
