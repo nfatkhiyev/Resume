@@ -1,0 +1,23 @@
+# Fdb version 3
+["pdflatex"] 1598141262 "/home/nate/RESUME/nf_resume.tex" "/home/nate/RESUME/nf_resume.pdf" "nf_resume" 1598141262
+  "/home/nate/RESUME/nf_resume.aux" 1598141262 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/nate/RESUME/nf_resume.tex" 1598141189 175 0bbd61a8801ae94fc1a843b48cc858aa ""
+  "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1591545468 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1591545468 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1591545468 1300 63a6111ee6274895728663cf4b4e7e81 ""
+  "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1591545468 71627 94eb9990bed73c364d7f53f960cc8c5b ""
+  "/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1591545468 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
+  "/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def" 1591545468 17448 c8e20d5f7e69b0cbecf82ab29daeebd9 ""
+  "/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def" 1591545468 25742 5de23a2d2bc67a3139433e702e64a437 ""
+  "/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty" 1591524854 48596 2b6a95da931c07a430b1a61904aaa42d ""
+  "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1591545468 55589 34128738f682d033422ca125f82e5d62 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1591545468 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1598139146 2514049 d3739dfb2e02876497d773d1b2e28fe2 ""
+  "nf_resume.aux" 0 -1 0 "pdflatex"
+  "nf_resume.tex" 1598141189 175 0bbd61a8801ae94fc1a843b48cc858aa ""
+  "nf_resume_class.cls" 1598141262 569 92a5cbb7d42db5953e03e073042f5833 ""
+  (generated)
+  "/home/nate/RESUME/nf_resume.log"
+  "nf_resume.aux"
+  "/home/nate/RESUME/nf_resume.pdf"
+  "nf_resume.log"
